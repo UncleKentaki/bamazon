@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "* Customers will see all the currently available items and be able to choose an item and how many they would like to buy * After their purchase is complete, the stock quantity will be updated and they will be displayed their purchase total",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UncleKentaki/bamazon.git"
+  },
+  "author": "Sean Naylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UncleKentaki/bamazon/issues"
+  },
+  "homepage": "https://github.com/UncleKentaki/bamazon#readme"
+}
