@@ -75,7 +75,7 @@ function whatDo(res) {
         connection.query(query, function (err, res) {
           // Once the update goes through, 
           // show the customer the total cost of their purchase.
-          console.log("Total cost = " totalCost);
+          console.log("Total cost = " + totalCost);
         });
 
 
